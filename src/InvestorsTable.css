@@ -1,0 +1,20 @@
+.address-header {
+  max-width: 26rem;
+}
+
+.address-column {
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  &:hover{
+    overflow: visible;
+  }
+}
+
+.token-headers {
+  width: 9rem;
+}
+
+.rank-headers {
+  width: 8rem;
+}
