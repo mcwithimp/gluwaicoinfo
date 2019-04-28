@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/gluwaicoinfo/precache-manifest.7695521a89868cf74cf681d825c90c6c.js"
+  "/gluwaicoinfo/precache-manifest.040f9586a39070865e3df412cdb5136c.js"
 );
 
 self.addEventListener('message', (event) => {

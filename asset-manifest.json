@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gluwaicoinfo/static/css/main.939bc0e9.chunk.css",
-    "main.js": "/gluwaicoinfo/static/js/main.2e869cb9.chunk.js",
-    "main.js.map": "/gluwaicoinfo/static/js/main.2e869cb9.chunk.js.map",
+    "main.css": "/gluwaicoinfo/static/css/main.0c3844e3.chunk.css",
+    "main.js": "/gluwaicoinfo/static/js/main.0fb5fbaa.chunk.js",
+    "main.js.map": "/gluwaicoinfo/static/js/main.0fb5fbaa.chunk.js.map",
     "runtime~main.js": "/gluwaicoinfo/static/js/runtime~main.ececd293.js",
     "runtime~main.js.map": "/gluwaicoinfo/static/js/runtime~main.ececd293.js.map",
     "static/css/2.0120b058.chunk.css": "/gluwaicoinfo/static/css/2.0120b058.chunk.css",
     "static/js/2.a0531ecd.chunk.js": "/gluwaicoinfo/static/js/2.a0531ecd.chunk.js",
     "static/js/2.a0531ecd.chunk.js.map": "/gluwaicoinfo/static/js/2.a0531ecd.chunk.js.map",
     "index.html": "/gluwaicoinfo/index.html",
-    "precache-manifest.7695521a89868cf74cf681d825c90c6c.js": "/gluwaicoinfo/precache-manifest.7695521a89868cf74cf681d825c90c6c.js",
+    "precache-manifest.040f9586a39070865e3df412cdb5136c.js": "/gluwaicoinfo/precache-manifest.040f9586a39070865e3df412cdb5136c.js",
     "service-worker.js": "/gluwaicoinfo/service-worker.js",
     "static/css/2.0120b058.chunk.css.map": "/gluwaicoinfo/static/css/2.0120b058.chunk.css.map",
-    "static/css/main.939bc0e9.chunk.css.map": "/gluwaicoinfo/static/css/main.939bc0e9.chunk.css.map"
+    "static/css/main.0c3844e3.chunk.css.map": "/gluwaicoinfo/static/css/main.0c3844e3.chunk.css.map"
   }
 }
